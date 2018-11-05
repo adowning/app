@@ -21,6 +21,7 @@
     "cross-env": "^5.2.0",
     "feathers": "^2.0.3",
     "feathers-configuration": "^0.3.3",
+    "kuzzle-sdk": "^5.0.13",
     "nuxt": "^2.2.0",
     "nuxt-feathers-vuex": "0.0.7"
   },
