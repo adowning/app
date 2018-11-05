@@ -37,6 +37,7 @@ module.exports = {
   middleware: ['middleware/feathers.js'],
   modules: [
     [
+      '@nuxtjs/pwa',
       'nuxt-feathers-vuex',
       'bootstrap-vue/nuxt',
       {
